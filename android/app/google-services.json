@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "990064075367",
+    "project_id": "hospitalmanagement-1f6c8",
+    "storage_bucket": "hospitalmanagement-1f6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990064075367:android:a825f87f2aa604249e6ac2",
+        "android_client_info": {
+          "package_name": "com.example.doctor_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990064075367-q5281gf6g3fcsh0t1iop3bkaq75cfhoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_management",
+            "certificate_hash": "68f87141b4ef3eeaf126c1912a65797618ec2906"
+          }
+        },
+        {
+          "client_id": "990064075367-hjlgvv1e52trdclds2f2so8o04cmped7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALH4LjaMVGwSdT9DjBG-9lW4mKJeyoSQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990064075367-fr0kjo3sp0h2ttv4ub9ene6l33o2l0if.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990064075367-6mop9c2qqrjh58uvo2ltks7q55mh4da3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

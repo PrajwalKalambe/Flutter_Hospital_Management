@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "hospitalmanagement-1f6c8",
+                    "appId": "1:990064075367:android:a825f87f2aa604249e6ac2",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "hospitalmanagement-1f6c8",
+                    "configurations": {
+                        "android": "1:990064075367:android:a825f87f2aa604249e6ac2",
+                        "ios": "1:990064075367:ios:c003eec19a1286759e6ac2",
+                        "macos": "1:990064075367:ios:c003eec19a1286759e6ac2",
+                        "web": "1:990064075367:web:6b5be86212287ebf9e6ac2",
+                        "windows": "1:990064075367:web:6604110016feff099e6ac2"
+                    }
+                }
+            }
+        }
+    }
+}
